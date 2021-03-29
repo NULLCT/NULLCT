@@ -1,6 +1,3 @@
-#include <string>
-using std::string;
-
 class Human{
   //TODO:
 };
