@@ -13,7 +13,7 @@
 
 #### I'm NULLCT, a student at Japan
 
-- ⚒️ Competitive Programming at C++,
+- ⚒️ Competitive Programming at C++,  
 a little bit Python/JavaScript
 - ✏️ Arch Linux / i3wm / zsh / nvim
 - 💖 Loving Rust but I can't write
