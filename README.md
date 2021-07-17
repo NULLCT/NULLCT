@@ -13,12 +13,11 @@
 
 #### I'm NULLCT, a student at Japan
 
-
 - ⚒️ Competitive Programming at C++,
 a little bit Python/JavaScript
 - ✏️ Arch Linux / i3wm / zsh / nvim
 - 💖 Loving Rust but I can't write
-- ⚙️ My Dotfile is here: github.com/NULLCT/Dotfiles
+- ⚙️ My Dotfile is here: [NULLCT/Dotfiles](github.com/NULLCT/Dotfiles)
 
 ---
 
