@@ -6,7 +6,7 @@
   |_| \_|\___/|_____|_____\____| |_|
 
 -->
-## Hello there! :wave: ![](https://atcoder-badges.now.sh/api/atcoder/YutoCT)
+## Hi there :wave: ![](https://atcoder-badges.now.sh/api/atcoder/YutoCT)
 ---
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NULLCT&theme=gruvbox&show_icons=true">
@@ -16,7 +16,7 @@
 - ⚒️ Competitive Programming at C++,  
 a little bit Python/JavaScript
 - ✏️ Arch Linux / i3wm / zsh / nvim
-- 💖 Loving Rust but I can't write
+- 💖 I like Rust, but I can't write it
 - ⚙️ My Dotfile is here: [NULLCT/Dotfiles](https://github.com/NULLCT/Dotfiles)
 
 ---
